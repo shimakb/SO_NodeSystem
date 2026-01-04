@@ -17,4 +17,4 @@ in spatial networks.
 - JavaScript (WEBGL)
 
 **Live Demo**
-[https://your-netlify-link](https://nodes-network.netlify.app/)
+(https://nodes-network.netlify.app/)
